@@ -7,8 +7,8 @@ This is my first updated profile page, it will be update occacionally when new p
 - Dan Bohn
 
 ## Screenshots
-<img src= ".assets/Screenshot (34).png">
-<img src= ".assets/Screenshot (35).png">
+<img src= "assets/Screenshot (34).png">
+<img src= "assets/Screenshot (35).png">
 
 
 ## Deployment
